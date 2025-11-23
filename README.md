@@ -8,7 +8,7 @@ https://liveunibo-my.sharepoint.com/:u:/g/personal/allegra_defilippo_unibo_it/ER
 2. Download the repository:
 https://github.com/Holstein01/NAO
 3. Open Choreograph.
-Go to Edit ? Preferences.
+Go to Edit -> Preferences.
 o In the General tab, set the motor speed to 100.
 o In the Virtual Robot tab, select the model NAO H25 V50.
 4. In the Virtual Robot tab, find the port to which NAO is connected.
